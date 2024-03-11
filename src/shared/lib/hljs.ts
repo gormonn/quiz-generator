@@ -1,0 +1,1 @@
+export const hljs = window.hasOwnProperty('hljs') ? window.hljs : null;
