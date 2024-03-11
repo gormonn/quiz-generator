@@ -12,12 +12,12 @@ Todo:
 
 Code detection is not an important option for this project. So I don’t have to take this to work.
 
-
+ 
 Roadmap:
 - [x] try Prism for syntax highlight [Usage with react](https://reemus.dev/article/code-highlighting-in-react-using-prismjs)
   - [ ] configure Prism
 - [ ] try CodeMirror for code edit
-- [ ] try to compare them
+- [ ] try to combine them
 - [ ] compare lang supports between them
 - [ ] create language selector
 - [ ] create quiz elements like from post
