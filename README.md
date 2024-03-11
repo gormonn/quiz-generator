@@ -12,15 +12,9 @@ Todo:
 
 Code detection is not an important option for this project. So I don’t have to take this to work.
 
-I assume that Prism is incompatible with Code Mirror.
-
-Because Prism emphasizes the "immutability" of the code in its documentation.
-
-However, I think that it is possible to combine them conveniently. In the worst case, it could be a web components solution.
-
 
 Roadmap:
-- [*] try Prism for syntax highlight [Usage with react](https://reemus.dev/article/code-highlighting-in-react-using-prismjs)
+- [x] try Prism for syntax highlight [Usage with react](https://reemus.dev/article/code-highlighting-in-react-using-prismjs)
   - [ ] configure Prism
 - [ ] try CodeMirror for code edit
 - [ ] try to compare them
