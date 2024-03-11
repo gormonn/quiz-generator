@@ -20,7 +20,8 @@ However, I think that it is possible to combine them conveniently. In the worst 
 
 
 Roadmap:
-- [ ] try Prism for syntax highlight [Usage with react](https://reemus.dev/article/code-highlighting-in-react-using-prismjs)
+- [*] try Prism for syntax highlight [Usage with react](https://reemus.dev/article/code-highlighting-in-react-using-prismjs)
+  - [ ] configure Prism
 - [ ] try CodeMirror for code edit
 - [ ] try to compare them
 - [ ] compare lang supports between them
